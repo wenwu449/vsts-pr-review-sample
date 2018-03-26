@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/wenwu449/vsts-pr-sample/vsts"
+	"github.com/wenwu449/vsts-pr-review-sample/vsts"
 )
 
 func main() {
