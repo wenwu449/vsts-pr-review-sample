@@ -1,2 +1,10 @@
 # VSTS Pull Request Review Sample
-A sample tool to do VSTS pull request review via REST API.
+A sample to do pull request review service for VSTS.
+
+# How to use
+
+## Configuraiton files
+
+## Parameters
+
+## Environment Variables
